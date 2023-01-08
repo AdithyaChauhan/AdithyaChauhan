@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdithyaChauhan
-- 👀 I’m interested in contributing to open source, web development
-- 🌱 I’m currently learning DSA, github tutorial
-- 💞️ I’m trying to get used to github first
+- 👀 I love to contribute to open source, and make life better.
+- 🌱 I am a Web Developer and sometimes solve DSA problems
+- 💞️ I’m ready to do anything useful 
 - 📫 How to reach me @adithyachauhan4 mail id
 
 <!---
